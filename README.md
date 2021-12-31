@@ -15,4 +15,4 @@ Trong khi đó, các tệp đầu ra đã biên dịch sẽ được tạo trong
 
 ## Quản lý sự phụ thuộc
 
-Các  'JAVA PROJECTS'  quan điểm cho phép bạn quản lý phụ thuộc của   của bạn. Thông tin chi tiết có thể được tìm thấy  [tại đây] (https://github.com/microsoft/vscode-java-dependency#manage-dependencies) .
+Các  'JAVA PROJECTS'  quan điểm cho phép bạn quản lý phụ thuộc của   của bạn. Thông tin chi tiết có thể được tìm thấy  [tại đây]_(https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
